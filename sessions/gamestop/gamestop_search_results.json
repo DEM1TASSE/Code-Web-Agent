@@ -1,0 +1,37 @@
+{
+  "zip_code": "90028",
+  "url": "https://www.gamestop.com/stores/?showMap=true&horizontalView=true&isForm=true",
+  "stores_found": [
+    {
+      "selector": "[data-store-id]",
+      "index": 0,
+      "text": "Edgewood Town Center\n(412) 241-5531\nClosed Until 12:00 PM\n1611 S Braddock Ave\nSte 202\nPittsburgh, PA 15218\nGet Directions\nStore Details\nHOURS\nSun:\n11:00 AM\n-\n7:00 PM\nMon:\n12:00 PM\n-\n8:00 PM\nTue:\n12:00 PM\n-\n8:00 PM\nWed:\n12:00 PM\n-\n8:00 PM\nThu:\n12:00 PM\n-\n8:00 PM\nFri:\n11:00 AM\n-\n9:00 PM\nSat:\n10:00 AM\n-\n9:00 PM"
+    },
+    {
+      "selector": "[data-store-id]",
+      "index": 2,
+      "text": "\n            Set as Home Store\n        "
+    },
+    {
+      "selector": "[data-store-id]",
+      "index": 3,
+      "text": "North Hills Village Mall\n(412) 369-0744\nClosed Until 12:00 PM\n4801 McKnight Rd\nSte 107\nPittsburgh, PA 15237\nGet Directions\nStore Details\nHOURS\nSun:\n12:00 PM\n-\n7:00 PM\nMon:\n12:00 PM\n-\n7:00 PM\nTue:\n12:00 PM\n-\n7:00 PM\nWed:\n12:00 PM\n-\n7:00 PM\nThu:\n12:00 PM\n-\n7:00 PM\nFri:\n11:00 AM\n-\n9:00 PM\nSat:\n11:00 AM\n-\n8:00 PM"
+    }
+  ],
+  "potential_stores": [
+    "1611 S Braddock Ave\nSt",
+    "15218\nGet Directions\nSt",
+    "4801 McKnight Rd\nSt",
+    "15237\nGet Directions\nSt",
+    "1025 WASHINGTON PIKE\nST",
+    "(412) 241-5531",
+    "(412) 369-0744",
+    "(412) 914-1072",
+    "(412) 851-1919",
+    "(412) 494-3147"
+  ],
+  "store_data_matches": [
+    "\"store\":{\"storeName\":\"Edgewood Town Center - GameStop\",\"storeID\":\"0938\",\"stateProvince\":\"PA\",\"postalCode\":\"15218\",\"city\":\"Pittsburgh\"}"
+  ],
+  "timestamp": 1758598757.2065592
+}

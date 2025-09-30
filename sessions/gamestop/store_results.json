@@ -1,0 +1,110 @@
+{
+  "zip_code": "90028",
+  "search_timestamp": 1758600053.2717278,
+  "total_stores_found": 6,
+  "stores": [
+    {
+      "index": 0,
+      "name": "Edgewood Town Center",
+      "phone": "(412) 241-5531",
+      "address": "Closed Until 12:00 PM, 1611 S Braddock Ave, Ste 202, Pittsburgh, PA 15218",
+      "status": "Closed Until 12:00 PM",
+      "hours": {
+        "Sun": "11:00 AM - 7:00 PM",
+        "Mon": "12:00 PM - 8:00 PM",
+        "Tue": "12:00 PM - 8:00 PM",
+        "Wed": "12:00 PM - 8:00 PM",
+        "Thu": "12:00 PM - 8:00 PM",
+        "Fri": "11:00 AM - 9:00 PM",
+        "Sat": "10:00 AM - 9:00 PM"
+      },
+      "raw_text": "Edgewood Town Center\n(412) 241-5531\nClosed Until 12:00 PM\n1611 S Braddock Ave\nSte 202\nPittsburgh, PA 15218\nGet Directions\nStore Details\nHOURS\nSun:\n11:00 AM\n-\n7:00 PM\nMon:\n12:00 PM\n-\n8:00 PM\nTue:\n12:00 PM\n-\n8:00 PM\nWed:\n12:00 PM\n-\n8:00 PM\nThu:\n12:00 PM\n-\n8:00 PM\nFri:\n11:00 AM\n-\n9:00 PM\nSat:\n10:00 AM\n-\n9:00 PM"
+    },
+    {
+      "index": 3,
+      "name": "North Hills Village Mall",
+      "phone": "(412) 369-0744",
+      "address": "Closed Until 12:00 PM, 4801 McKnight Rd, Ste 107, Pittsburgh, PA 15237",
+      "status": "Closed Until 12:00 PM",
+      "hours": {
+        "Sun": "12:00 PM - 7:00 PM",
+        "Mon": "12:00 PM - 7:00 PM",
+        "Tue": "12:00 PM - 7:00 PM",
+        "Wed": "12:00 PM - 7:00 PM",
+        "Thu": "12:00 PM - 7:00 PM",
+        "Fri": "11:00 AM - 9:00 PM",
+        "Sat": "11:00 AM - 8:00 PM"
+      },
+      "raw_text": "North Hills Village Mall\n(412) 369-0744\nClosed Until 12:00 PM\n4801 McKnight Rd\nSte 107\nPittsburgh, PA 15237\nGet Directions\nStore Details\nHOURS\nSun:\n12:00 PM\n-\n7:00 PM\nMon:\n12:00 PM\n-\n7:00 PM\nTue:\n12:00 PM\n-\n7:00 PM\nWed:\n12:00 PM\n-\n7:00 PM\nThu:\n12:00 PM\n-\n7:00 PM\nFri:\n11:00 AM\n-\n9:00 PM\nSat:\n11:00 AM\n-\n8:00 PM"
+    },
+    {
+      "index": 6,
+      "name": "Chartiers Valley Center",
+      "phone": "(412) 914-1072",
+      "address": "Closed Until 12:00 PM, 1025 WASHINGTON PIKE, STE 29, BRIDGEVILLE, PA 15017",
+      "status": "Closed Until 12:00 PM",
+      "hours": {
+        "Sun": "11:00 AM - 6:00 PM",
+        "Mon": "12:00 PM - 8:00 PM",
+        "Tue": "12:00 PM - 8:00 PM",
+        "Wed": "12:00 PM - 8:00 PM",
+        "Thu": "12:00 PM - 8:00 PM",
+        "Fri": "11:00 AM - 9:00 PM",
+        "Sat": "11:00 AM - 9:00 PM"
+      },
+      "raw_text": "Chartiers Valley Center\n(412) 914-1072\nClosed Until 12:00 PM\n1025 WASHINGTON PIKE\nSTE 29\nBRIDGEVILLE, PA 15017\nGet Directions\nStore Details\nHOURS\nSun:\n11:00 AM\n-\n6:00 PM\nMon:\n12:00 PM\n-\n8:00 PM\nTue:\n12:00 PM\n-\n8:00 PM\nWed:\n12:00 PM\n-\n8:00 PM\nThu:\n12:00 PM\n-\n8:00 PM\nFri:\n11:00 AM\n-\n9:00 PM\nSat:\n11:00 AM\n-\n9:00 PM"
+    },
+    {
+      "index": 9,
+      "name": "South Hills Village",
+      "phone": "(412) 851-1919",
+      "address": "Closed Until 10:00 AM, 301 SOUTH HILLS VILLAGE, ROOM 1112A, PITTSBURGH, PA 15241",
+      "status": "Closed Until 10:00 AM",
+      "hours": {
+        "Sun": "11:00 AM - 6:00 PM",
+        "Mon": "10:00 AM - 8:00 PM",
+        "Tue": "10:00 AM - 8:00 PM",
+        "Wed": "10:00 AM - 8:00 PM",
+        "Thu": "10:00 AM - 8:00 PM",
+        "Fri": "10:00 AM - 9:00 PM",
+        "Sat": "10:00 AM - 9:00 PM"
+      },
+      "raw_text": "South Hills Village\n(412) 851-1919\nClosed Until 10:00 AM\n301 SOUTH HILLS VILLAGE\nROOM 1112A\nPITTSBURGH, PA 15241\nGet Directions\nStore Details\nHOURS\nSun:\n11:00 AM\n-\n6:00 PM\nMon:\n10:00 AM\n-\n8:00 PM\nTue:\n10:00 AM\n-\n8:00 PM\nWed:\n10:00 AM\n-\n8:00 PM\nThu:\n10:00 AM\n-\n8:00 PM\nFri:\n10:00 AM\n-\n9:00 PM\nSat:\n10:00 AM\n-\n9:00 PM"
+    },
+    {
+      "index": 12,
+      "name": "Montour Church Plaza",
+      "phone": "(412) 494-3147",
+      "address": "Closed Until 12:00 PM, 312 McHolme DR, Building 2, Pittsburgh, PA 15275",
+      "status": "Closed Until 12:00 PM",
+      "hours": {
+        "Sun": "12:00 PM - 8:00 PM",
+        "Mon": "12:00 PM - 8:00 PM",
+        "Tue": "12:00 PM - 8:00 PM",
+        "Wed": "12:00 PM - 8:00 PM",
+        "Thu": "12:00 PM - 8:00 PM",
+        "Fri": "11:00 AM - 9:00 PM",
+        "Sat": "10:00 AM - 9:00 PM"
+      },
+      "raw_text": "Montour Church Plaza\n(412) 494-3147\nClosed Until 12:00 PM\n312 McHolme DR\nBuilding 2\nPittsburgh, PA 15275\nGet Directions\nStore Details\nHOURS\nSun:\n12:00 PM\n-\n8:00 PM\nMon:\n12:00 PM\n-\n8:00 PM\nTue:\n12:00 PM\n-\n8:00 PM\nWed:\n12:00 PM\n-\n8:00 PM\nThu:\n12:00 PM\n-\n8:00 PM\nFri:\n11:00 AM\n-\n9:00 PM\nSat:\n10:00 AM\n-\n9:00 PM"
+    },
+    {
+      "index": 15,
+      "name": "Miracle Mile Center",
+      "phone": "(412) 380-6051",
+      "address": "Closed Until 11:00 AM, 5 Miracle Mile Shopping Ctr, Monroeville, PA 15146",
+      "status": "Closed Until 11:00 AM",
+      "hours": {
+        "Sun": "10:00 AM - 8:00 PM",
+        "Mon": "11:00 AM - 8:00 PM",
+        "Tue": "11:00 AM - 8:00 PM",
+        "Wed": "11:00 AM - 8:00 PM",
+        "Thu": "11:00 AM - 8:00 PM",
+        "Fri": "10:00 AM - 9:00 PM",
+        "Sat": "10:00 AM - 10:00 PM"
+      },
+      "raw_text": "Miracle Mile Center\n(412) 380-6051\nClosed Until 11:00 AM\n5 Miracle Mile Shopping Ctr\nMonroeville, PA 15146\nGet Directions\nStore Details\nHOURS\nSun:\n10:00 AM\n-\n8:00 PM\nMon:\n11:00 AM\n-\n8:00 PM\nTue:\n11:00 AM\n-\n8:00 PM\nWed:\n11:00 AM\n-\n8:00 PM\nThu:\n11:00 AM\n-\n8:00 PM\nFri:\n10:00 AM\n-\n9:00 PM\nSat:\n10:00 AM\n-\n10:00 PM"
+    }
+  ],
+  "url": "https://www.gamestop.com/stores/?showMap=true&horizontalView=true&isForm=true"
+}
