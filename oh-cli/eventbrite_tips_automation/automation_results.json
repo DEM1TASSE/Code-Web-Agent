@@ -1,0 +1,92 @@
+{
+  "url": "https://www.eventbrite.com/resources/",
+  "timestamp": "2025-10-02T17:18:47.695599",
+  "page_title": "Resources for Event Organizers | Eventbrite",
+  "page_content": {
+    "headings": [
+      "Eventbrite's Organizer Resource Hub",
+      "Featured topics",
+      "Event Planning",
+      "Event Budgeting",
+      "Event Marketing",
+      "Use Eventbrite",
+      "Plan Events",
+      "Find Events",
+      "Connect With Us"
+    ],
+    "resource_sections": [],
+    "tip_links": [
+      {
+        "text": "organizer resource hub",
+        "href": "/resources/"
+      },
+      {
+        "text": "party planning",
+        "href": "/resources/party-planning/"
+      },
+      {
+        "text": "the ultimate party planning checklist",
+        "href": "/resources/party-planning/party-planning-checklist/"
+      },
+      {
+        "text": "the best party planning hacks",
+        "href": "/resources/party-planning/party-planning-hacks/"
+      },
+      {
+        "text": "how to plan a great birthday party",
+        "href": "/resources/party-planning/birthday-party/"
+      },
+      {
+        "text": "how to plan an unforgettable bachelor party",
+        "href": "/resources/party-planning/bachelor-party/"
+      },
+      {
+        "text": "event planning",
+        "href": "/resources/event-planning/"
+      },
+      {
+        "text": "an event planning checklist for any event",
+        "href": "/resources/event-planning/checklist/"
+      },
+      {
+        "text": "virtual event planning to foster meaningful connections",
+        "href": "/resources/event-planning/virtual-events/"
+      },
+      {
+        "text": "create an event contingency plan to safeguard your success",
+        "href": "/resources/event-planning/contingency-plan/"
+      },
+      {
+        "text": "plan in-person events to boost engagement",
+        "href": "/resources/event-planning/in-person-events/"
+      },
+      {
+        "text": "craft an event business plan to achieve your goals",
+        "href": "/resources/event-planning/business-plan/"
+      },
+      {
+        "text": "create an effective and actionable event strategy",
+        "href": "/resources/event-planning/mastering-event-strategy/"
+      },
+      {
+        "text": "revolutionize success with ai event planning",
+        "href": "/resources/event-planning/ai-for-event-planning/"
+      },
+      {
+        "text": "organize finances with this free event budget template",
+        "href": "/resources/budgets/event-budget-template/"
+      }
+    ],
+    "tips_keywords_found": [
+      "planning checklist",
+      "event strategy",
+      "event management"
+    ]
+  },
+  "screenshots": [
+    "eventbrite_resources_page.png",
+    "eventbrite_resources_scrolled.png"
+  ],
+  "status": "success",
+  "final_url": "https://www.eventbrite.com/resources/"
+}

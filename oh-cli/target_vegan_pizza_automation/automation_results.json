@@ -1,0 +1,275 @@
+{
+  "timestamp": "2025-10-02T17:25:36.673671",
+  "search_url": "https://www.target.com/s?searchTerm=frozen%20vegan%20cheese%20pizza",
+  "search_term": "frozen vegan cheese pizza",
+  "price_range": {
+    "min": 5,
+    "max": 10
+  },
+  "products_found": [
+    {
+      "position": 1,
+      "title": "Red Baron Cheese Trio Brick Oven Frozen Pizza - 17.82oz",
+      "price_text": "$4.89",
+      "price_value": 4.89,
+      "url": "https://www.target.com/p/red-baron-brick-oven-cheese-trio-frozen-pizza-17-82oz/-/A-31168521#lnk=sametab",
+      "is_vegan": false,
+      "in_price_range": false
+    },
+    {
+      "position": 2,
+      "title": "Red Baron Pepperoni Brick Oven Frozen Pizza - 17.89oz",
+      "price_text": "$4.89",
+      "price_value": 4.89,
+      "url": "https://www.target.com/p/red-baron-brick-oven-pepperoni-frozen-pizza-17-89oz/-/A-31168522#lnk=sametab",
+      "is_vegan": false,
+      "in_price_range": false
+    },
+    {
+      "position": 3,
+      "title": "Freschetta Pepperoni Gluten Free Thin Crust Frozen Pizza - 17.78oz",
+      "price_text": "$12.89",
+      "price_value": 12.89,
+      "url": "https://www.target.com/p/freschetta-gluten-free-frozen-pizza-signature-pepperoni-17-78oz/-/A-31168520#lnk=sametab",
+      "is_vegan": false,
+      "in_price_range": false
+    },
+    {
+      "position": 4,
+      "title": "Frozen Spinach & Goat Cheese Mini Pizza - 7.4oz - Good & Gather™",
+      "price_text": "$3.39",
+      "price_value": 3.39,
+      "url": "https://www.target.com/p/frozen-spinach-38-goat-cheese-mini-pizza-7-4oz-good-38-gather-8482/-/A-85320711#lnk=sametab",
+      "is_vegan": false,
+      "in_price_range": false
+    },
+    {
+      "position": 5,
+      "title": "Lean Cuisine Protein Kick Frozen Four Cheese Pizza - 6oz",
+      "price_text": "$3.49",
+      "price_value": 3.49,
+      "url": "https://www.target.com/p/lean-cuisine-protein-kick-four-cheese-frozen-pizza-6oz/-/A-13291617#lnk=sametab",
+      "is_vegan": false,
+      "in_price_range": false
+    },
+    {
+      "position": 6,
+      "title": "Gluten Free Cauliflower Crust Four Cheese Frozen Pizza - Good & Gather™",
+      "price_text": "$6.79",
+      "price_value": 6.79,
+      "url": "https://www.target.com/p/gluten-free-cauliflower-crust-four-cheese-frozen-pizza-good-38-gather-8482/-/A-78666207#lnk=sametab",
+      "is_vegan": false,
+      "in_price_range": true
+    },
+    {
+      "position": 7,
+      "title": "Freschetta Four Cheese Medley Naturally Rising Crust Frozen Pizza - 26.11oz",
+      "price_text": "$6.29",
+      "price_value": 6.29,
+      "url": "https://www.target.com/p/freschetta-naturally-rising-crust-pizza-four-cheese-medley-26-11oz/-/A-13376392#lnk=sametab",
+      "is_vegan": false,
+      "in_price_range": true
+    },
+    {
+      "position": 8,
+      "title": "Freschetta Pepperoni Naturally Rising Crust Frozen Pizza - 27.35oz",
+      "price_text": "$6.29",
+      "price_value": 6.29,
+      "url": "https://www.target.com/p/freschetta-naturally-rising-crust-pizza-signature-pepperoni-27-35oz/-/A-13374368#lnk=sametab",
+      "is_vegan": false,
+      "in_price_range": true
+    },
+    {
+      "position": 9,
+      "title": "No title",
+      "price_text": "No price",
+      "price_value": null,
+      "url": "",
+      "is_vegan": false,
+      "in_price_range": false
+    },
+    {
+      "position": 10,
+      "title": "No title",
+      "price_text": "No price",
+      "price_value": null,
+      "url": "",
+      "is_vegan": false,
+      "in_price_range": false
+    },
+    {
+      "position": 11,
+      "title": "No title",
+      "price_text": "No price",
+      "price_value": null,
+      "url": "",
+      "is_vegan": false,
+      "in_price_range": false
+    },
+    {
+      "position": 12,
+      "title": "No title",
+      "price_text": "No price",
+      "price_value": null,
+      "url": "",
+      "is_vegan": false,
+      "in_price_range": false
+    },
+    {
+      "position": 13,
+      "title": "No title",
+      "price_text": "No price",
+      "price_value": null,
+      "url": "",
+      "is_vegan": false,
+      "in_price_range": false
+    },
+    {
+      "position": 14,
+      "title": "No title",
+      "price_text": "No price",
+      "price_value": null,
+      "url": "",
+      "is_vegan": false,
+      "in_price_range": false
+    },
+    {
+      "position": 15,
+      "title": "No title",
+      "price_text": "No price",
+      "price_value": null,
+      "url": "",
+      "is_vegan": false,
+      "in_price_range": false
+    },
+    {
+      "position": 16,
+      "title": "No title",
+      "price_text": "No price",
+      "price_value": null,
+      "url": "",
+      "is_vegan": false,
+      "in_price_range": false
+    },
+    {
+      "position": 17,
+      "title": "No title",
+      "price_text": "No price",
+      "price_value": null,
+      "url": "",
+      "is_vegan": false,
+      "in_price_range": false
+    },
+    {
+      "position": 18,
+      "title": "No title",
+      "price_text": "No price",
+      "price_value": null,
+      "url": "",
+      "is_vegan": false,
+      "in_price_range": false
+    },
+    {
+      "position": 19,
+      "title": "No title",
+      "price_text": "No price",
+      "price_value": null,
+      "url": "",
+      "is_vegan": false,
+      "in_price_range": false
+    },
+    {
+      "position": 20,
+      "title": "No title",
+      "price_text": "No price",
+      "price_value": null,
+      "url": "",
+      "is_vegan": false,
+      "in_price_range": false
+    },
+    {
+      "position": 21,
+      "title": "No title",
+      "price_text": "No price",
+      "price_value": null,
+      "url": "",
+      "is_vegan": false,
+      "in_price_range": false
+    },
+    {
+      "position": 22,
+      "title": "No title",
+      "price_text": "No price",
+      "price_value": null,
+      "url": "",
+      "is_vegan": false,
+      "in_price_range": false
+    },
+    {
+      "position": 23,
+      "title": "No title",
+      "price_text": "No price",
+      "price_value": null,
+      "url": "",
+      "is_vegan": false,
+      "in_price_range": false
+    },
+    {
+      "position": 24,
+      "title": "No title",
+      "price_text": "No price",
+      "price_value": null,
+      "url": "",
+      "is_vegan": false,
+      "in_price_range": false
+    },
+    {
+      "position": 25,
+      "title": "No title",
+      "price_text": "No price",
+      "price_value": null,
+      "url": "",
+      "is_vegan": false,
+      "in_price_range": false
+    },
+    {
+      "position": 26,
+      "title": "No title",
+      "price_text": "No price",
+      "price_value": null,
+      "url": "",
+      "is_vegan": false,
+      "in_price_range": false
+    },
+    {
+      "position": 27,
+      "title": "No title",
+      "price_text": "No price",
+      "price_value": null,
+      "url": "",
+      "is_vegan": false,
+      "in_price_range": false
+    },
+    {
+      "position": 28,
+      "title": "No title",
+      "price_text": "No price",
+      "price_value": null,
+      "url": "",
+      "is_vegan": false,
+      "in_price_range": false
+    },
+    {
+      "position": 29,
+      "title": "No title",
+      "price_text": "No price",
+      "price_value": null,
+      "url": "",
+      "is_vegan": false,
+      "in_price_range": false
+    }
+  ],
+  "vegan_products_in_range": [],
+  "total_products": 29,
+  "status": "no_matches"
+}
