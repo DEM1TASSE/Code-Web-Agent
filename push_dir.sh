@@ -10,7 +10,7 @@ if [ -z "$1" ]; then
 fi
 
 FOLDER_NAME=$1
-TARGET_DIR="/workspace/Code-Web-Agent/sessions/$FOLDER_NAME"
+TARGET_DIR="/workspace/Code-Web-Agent/oh_ui_sessions/$FOLDER_NAME"
 
 echo "📂 创建目录: $TARGET_DIR"
 mkdir -p "$TARGET_DIR"
@@ -26,7 +26,7 @@ echo "✅ 文件复制完成"
 cd /workspace/Code-Web-Agent
 
 echo "📤 推送到 GitHub..."
-git add "sessions/$FOLDER_NAME"
+git add "oh_ui_sessions/$FOLDER_NAME"
 git commit -m "Add session files for $FOLDER_NAME"
 git push origin main
 
